@@ -5,7 +5,7 @@ FRONTEND para manejar perfiles de RED WIFI con WPA_SUPPLICANT.
 
 Dados los datos (ESSID, ENCRIPTACION, CLAVE), genera un fichero wpasupplicant.conf para realizar la conexión WIFI.
 
-Guarda el fichero en formato especificado por WPASUPPLICANT.
+El programa genera un fichero que es guardado en formato especificado por WPASUPPLICANT.
 
 Ejemplo:
 __________________________________________
